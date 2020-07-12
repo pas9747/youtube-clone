@@ -12,3 +12,40 @@ body{
     width: 120px;
     height: 60px;
 }
+
+#mynav{
+    background-color: yellow;
+}
+
+/* .hello-jenny{
+    color: white;
+} */
+
+main > * {
+    color: white;
+    font-size: 30px;
+}
+
+main > section > section {
+    color: black;
+}
+
+/* main * {
+    color: white;
+    font-size: 30px;
+} */
+.hj, .hw{
+    color: red;
+}
+
+.yellow{
+background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+
+
