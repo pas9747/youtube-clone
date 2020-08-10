@@ -1,0 +1,49 @@
+.box{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 5px;
+    width: 960px;
+    height: 600px;
+    background: red;
+}
+
+.box1{
+    flex: 19%;
+    width: 475px;
+    background-color: blue;
+}
+
+.box2{
+    flex: 79%;
+    width:475px;
+    background-color: green;
+}
+
+.box3{
+    flex: 49%;
+    width: 283px;
+    background-color: yellow;
+}
+
+.box4{
+    flex: 49%;
+    width: 283px;
+    background-color: blue;
+}
+.box5{
+    flex: 32%;
+    width: 187px;
+    background-color: blue;
+}
+.box6{
+    flex: 32%;
+    width: 187px;
+    background-color: green;
+}
+.box7{
+    flex: 32%;
+    width: 187px;
+    background-color: yellow;
+}
